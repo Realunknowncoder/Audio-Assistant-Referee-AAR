@@ -42,7 +42,6 @@ Don't want a PCB or want to create your own? No problem, here is the wiring for 
 
 For this project to work, you need to use the DIH-Projects library or check the file in the Code folder and upload it using your Arduino IDE!
 
-[Code missing]
 
 ## ⬇️ 3D Model:
 
