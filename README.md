@@ -3,7 +3,7 @@
 > *No more "I swear I didn't say it" or "I told you earlier"*
 
 
-[Missing poster]
+<img width="1748" height="2480" alt="poster_AAR" src="https://github.com/user-attachments/assets/8fcd2bf0-5f2e-433c-ab6b-b9cad8b29309" />
 
 
 
